@@ -1,0 +1,22 @@
+E:\Simulation\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+E:\Simulation\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+E:\Simulation\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.AssemblyReference.cache
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Form1.resources
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+E:\Simulation\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.AssemblyReference.cache
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Form1.resources
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+E:\Simulation\After mids 7\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
